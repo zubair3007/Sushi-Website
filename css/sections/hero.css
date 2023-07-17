@@ -10,7 +10,7 @@
     flex-direction: column;
 
     position:relative;
-    z-index: 5;
+    z-index: 5 ;
 }
 
 .hero-image img{
@@ -133,7 +133,7 @@
 }
 
 .hero-content__customer p {
-    font-size: 62px;
+    font-size: 16px;
     font-weight: 400px;
     font-family: var(--plus-jakarta-sans);
     color:var(--secondary-color);
